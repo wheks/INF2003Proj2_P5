@@ -42,5 +42,6 @@ oClick save and connect. Now u have successfully connected into the MongoDB Data
 •	Analyse Airline Popularity: Select 'Analyse Airline Popularity' to view most popular airline and the chart passenger count for each airlines
 •	Analyse Tourism Duration: Select 'Analyse Tourism Duration' to view most common stayed duration and chart to compare each duration range
 •	Analyse Airline Trend: Select 'Analyse Airline Trend' to view which airlines is the highest passenger from the respective country of origin.
+
 ![image](https://github.com/user-attachments/assets/baa86053-0c43-495f-a56d-c591830e6995)
 
