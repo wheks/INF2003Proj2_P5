@@ -16,8 +16,10 @@ o	Once MongoDB is up and running
 o	Select “Add New Connections”
 o	Copy this link into the URL box: 
 mongodb+srv://INF2003:INF2003@cluster0.yib8q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-![image](https://github.com/user-attachments/assets/baef701b-4d63-442c-be72-41f569831857)
-oClick save and connect. Now u have successfully connected into the MongoDB Database.
+
+![image](https://github.com/user-attachments/assets/0e937486-6218-44fd-9f4a-08b40f184603)
+
+o Click save and connect. Now u have successfully connected into the MongoDB Database.
 
 
 3.	Getting Started with the DBMS
@@ -26,7 +28,9 @@ oClick save and connect. Now u have successfully connected into the MongoDB Data
 •	Once the code is running, you will be greeted with a GUI
 •	You will be prompt to login as a user. You can create your own by Clicking “Create New Account”
 •	Create a Username and Password then proceed to login into the system
-![image](https://github.com/user-attachments/assets/c4d3eafe-047b-4795-82b3-8ecb8599ddb0)
+![image](https://github.com/user-attachments/assets/f30a7685-9633-4087-b15f-6899ce2000a4)
+
+
 •	Log into the system to access it features.
 
 4.	Performing Basic Operations
@@ -36,12 +40,14 @@ oClick save and connect. Now u have successfully connected into the MongoDB Data
 •	Deleting Data: Select 'Delete Passenger' to delete passenger details from table
 •	When any user of the system is accessing any Passenger Management CRUD Functions. A 2nd user would be unable to access these functions for concurrency and protect the data integrity of the database. 
 
-![image](https://github.com/user-attachments/assets/b96ae53d-327e-45db-b9e1-108cbf2cf1c8)
+![image](https://github.com/user-attachments/assets/937e5ef8-d1e3-4213-98e2-d3c51e67d50e)
+
 
 5.	Advanced Operations
 •	Analyse Airline Popularity: Select 'Analyse Airline Popularity' to view most popular airline and the chart passenger count for each airlines
 •	Analyse Tourism Duration: Select 'Analyse Tourism Duration' to view most common stayed duration and chart to compare each duration range
 •	Analyse Airline Trend: Select 'Analyse Airline Trend' to view which airlines is the highest passenger from the respective country of origin.
 
-![image](https://github.com/user-attachments/assets/baa86053-0c43-495f-a56d-c591830e6995)
+![image](https://github.com/user-attachments/assets/d5dd84db-ae8f-43de-92ce-abf874ba6570)
+
 
